@@ -1,7 +1,3 @@
-Here's a sample README file for your "One-Fashion-Shop-Website-Design" GitHub project:
-
----
-
 # One Fashion Shop - Website Design
 
 Welcome to the One Fashion Shop Website Design repository! This project showcases a modern and stylish e-commerce website for a fashion store, created to provide a seamless online shopping experience.
